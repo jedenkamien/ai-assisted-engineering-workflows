@@ -11,21 +11,21 @@ The focus is not on generating tests in general, but on supplying the LLM with t
 Generate tests only for behavior introduced by a code change.
 
 See:
-- [Unit Test Scenarios](./unit-tests-scenarios.md#diff-based-test-generation)
+- [Diff-Based](./unit-tests-scenarios.md#diff-based-test-generation)
 
 ### Implementation-Based Test Generation
 
 Generate tests by analyzing an implementation class and deriving its main use cases.
 
 See:
-- [Unit Test Scenarios](./unit-tests-scenarios.md#implementation-based-test-generation)
+- [Implementation-Based](./unit-tests-scenarios.md#implementation-based-test-generation)
 
 ### Test Repair After Intentional Changes
 
 Identify why a test became invalid after a deliberate production code change and adjust the test accordingly.
 
 See:
-- [Unit Test Scenarios](./unit-tests-scenarios.md#test-repair-after-intentional-changes)
+- [Test Repair After Intentional Changes](./unit-tests-scenarios.md#test-repair-after-intentional-changes)
 
 ## Evolution into AI Skills
 
