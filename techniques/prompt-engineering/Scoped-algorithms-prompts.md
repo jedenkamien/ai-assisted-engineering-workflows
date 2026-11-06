@@ -1,7 +1,7 @@
 
-## Ready-to-go algorithms prompts
+## Ready-to-go scoped algorithms prompts
 ### the _a-third pyramid algorithm_ 
-to demonstrate that a **Pyramid's volume** is **a third of** a corresponding **Cube's volume**
+To demonstrate that a **Pyramid's volume** is **a third of** a corresponding **Cube's volume**:
 
   ```
   I'm building a pyramid from cubic blocks.
