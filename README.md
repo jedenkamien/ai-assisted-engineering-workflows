@@ -1,6 +1,6 @@
 # AI-Assisted Engineering Workflows
 
-Smart, battle-tested techniques and prompts to boost a developer's daily work with AI.
+Get more out of AI as a developer: workflows for solving problems, learning, and testing — proven in practice.
 
 These aren't theory — they're the patterns I actually use, refined in practice. The flagship one has been **presented to 400+ engineers.**
 
