@@ -30,4 +30,4 @@ Demonstrates how a carefully scoped prompt can combine:
 within a single interaction.
 
 See:
-- [Scoped algorithms prompts](./scoped-algorithms-prompts.md).
+- [Scoped algorithms prompts (examples)](./scoped-algorithms-prompts.md).
