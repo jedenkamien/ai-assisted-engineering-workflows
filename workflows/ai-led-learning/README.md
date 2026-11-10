@@ -49,7 +49,7 @@ Maintain a growing personal knowledge base
 
 ## Example Use Cases
 
-- .NET and C#
+- .NET and C# (any language, essentially)
 - Software architecture
 - Cloud technologies
 - System design
