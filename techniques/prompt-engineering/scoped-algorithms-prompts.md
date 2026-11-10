@@ -1,5 +1,5 @@
 
-## Ready-to-go scoped algorithms prompts
+## Ready-to-go scoped algorithms prompts (examples)
 ### the _a-third pyramid algorithm_ 
 To demonstrate that a **Pyramid's volume** is **a third of** a corresponding **Cube's volume**:
 
